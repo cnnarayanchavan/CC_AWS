@@ -26,7 +26,7 @@ Elistic Cloud Compute
 * Dynamic scaling responds to changing demand. 
 * Predictive scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand.
 
-<br/> <hr/>
+- <br/> <hr/>
 
 ### Directing Traffic with Elastic Load Balancing
 
@@ -37,6 +37,8 @@ Elistic Cloud Compute
 
 - Now the load balancer is the appliction that takes in requests and route them to the instances to be processed
 - so Basically ELB is the Regional Construct as it runs at regon level and distribute triffic effectively to the instances
+
+- <br/> <hr/>
 
 - ### Messaging and Queuing in AWS
 - Simple and in basic term we are going to have a buffer (temporary storage area) to hold data which is being transferred between two locations
@@ -50,14 +52,18 @@ Elistic Cloud Compute
   Ok so here if the applications are directlt communicate with each other so it says as it is a TIGHTLY COUPLED APPLICATION
   where we have risk for failaure because one component fails it'll afftect another working component too
   <h5>here's example:</h5> 
-  ![image](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/145a63f8-790f-49b1-ba14-64aaea66a1fa)
+  ![Screenshot 2024-06-26 133817](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/646c722d-3bc3-4ad9-88bd-ce5fdb053533)
+
 
 </br> </hr> 
+
 
   So here we have the more reliable architecture which is loosly coupled architecture where one component faliure won't cause cascading faliure as they are isolated from ach other 
   where, fo communication they uses message queue 
   <h5>here's example:</h5> 
-  ![image](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/6f1bb68b-dd32-4b74-83f2-35b37a599515)
+  ![Screenshot 2024-06-26 134337](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/7bbd0d22-2d17-40b3-9b02-08a9b7c1fe26)
+  
+</br> </hr> 
 
 
 
