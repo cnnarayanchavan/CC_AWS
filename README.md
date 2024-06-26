@@ -36,6 +36,12 @@ Elistic Cloud Compute
 
 
 - Now the load balancer is the appliction that takes in requests and route them to the instances to be processed
-- so Basically ELB is the Regional Construct as it runs at regon level and distribute triffic effectively to the instances 
+- so Basically ELB is the Regional Construct as it runs at regon level and distribute triffic effectively to the instances
+
+- ### Messaging and Queuing in AWS
+- Simple and in basic term we are going to have a buffer (temporary storage area) to hold data which is being transferred between two locations
+
+- So the concept of <h3>Messaging and  Queuing</h3> in AWS is :
+  *
 
 
