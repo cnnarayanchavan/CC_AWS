@@ -75,6 +75,9 @@ Elistic Cloud Compute
   * Serverless computing facilaties
   * no more need to provisioning the underlying infra. and other management
   * all are taken care by vendor
+ 
+  * ![Screenshot 2024-06-26 171230](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/29f5dd46-61e9-42af-8e36-b4281c5790f6)
+
 
 
 
