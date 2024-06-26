@@ -70,5 +70,11 @@ Elistic Cloud Compute
 
 * Amazon Simple Notification Service (Amazon SNS) is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers. This is similar to the coffee shop; the cashier provides coffee orders to the barista who makes the drinks.
 
+* </br> </hr>
+  ## AWS Lambda
+  * Serverless computing facilaties
+  * no more need to provisioning the underlying infra. and other management
+  * all are taken care by vendor
+
 
 
