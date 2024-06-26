@@ -80,6 +80,24 @@ Elistic Cloud Compute
   * all are taken care by vendor
  
   * ![Screenshot 2024-06-26 171230](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/29f5dd46-61e9-42af-8e36-b4281c5790f6)
+ 
+  </br> </hr>
+
+  ## AWS Container Orchestration Tools
+  * so here if you do not wnat the coMplete serverless computing of your domain and still wnat the provision of your server with efficiency and portability you could use AWS's
+    1] Amazon Elastic Container Services (Amazon ECS)
+
+    2] Amazon Elastics Kubernetes Services (Amazon EKS)
+
+    * where the container in this case is the docker container
+    * where Docker is the widely used containerization application, where the container is the package of your code in which we package up our application and dependencies and the configuration tha required to run the application.
+    * these container runs on top of EC2 instences
+   
+      ## AWS Fargate
+    Serverless compute for EKS and ECS ( If you don't want to manage both of these services ) {"*i don't understand wyh you even bother just make every single thing automatic*"}
+    
+    
+  
 
 
 
