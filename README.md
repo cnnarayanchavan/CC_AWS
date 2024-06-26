@@ -42,6 +42,22 @@ Elistic Cloud Compute
 - Simple and in basic term we are going to have a buffer (temporary storage area) to hold data which is being transferred between two locations
 
 - So the concept of <h3>Messaging and  Queuing</h3> in AWS is :
-  *
+  * Basically placing a messages into a buffer is nothing but the M&Q
+  * Where it helps applications to communicate with each other in the EC2 environment
+ 
+  </br> </hr>
+
+  Ok so here if the applications are directlt communicate with each other so it says as it is a TIGHTLY COUPLED APPLICATION
+  where we have risk for failaure because one component fails it'll afftect another working component too
+  <h5>here's example:</h5> 
+  ![image](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/145a63f8-790f-49b1-ba14-64aaea66a1fa)
+
+</br> </hr> 
+
+  So here we have the more reliable architecture which is loosly coupled architecture where one component faliure won't cause cascading faliure as they are isolated from ach other 
+  where, fo communication they uses message queue 
+  <h5>here's example:</h5> 
+  ![image](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/6f1bb68b-dd32-4b74-83f2-35b37a599515)
+
 
 
