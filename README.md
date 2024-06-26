@@ -93,7 +93,7 @@ Elistic Cloud Compute
     * where Docker is the widely used containerization application, where the container is the package of your code in which we package up our application and dependencies and the configuration tha required to run the application.
     * these container runs on top of EC2 instences
    
-      ## AWS Fargate
+      ## AWS Fargate (AWS Fargate(opens in a new tab) is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS. )
     Serverless compute for EKS and ECS ( If you don't want to manage both of these services ) {"*i don't understand wyh you even bother just make every single thing automatic*"}
     
     
