@@ -95,7 +95,23 @@ Elistic Cloud Compute
    
       ## AWS Fargate (AWS Fargate(opens in a new tab) is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS. )
     Serverless compute for EKS and ECS ( If you don't want to manage both of these services ) {"*i don't understand wyh you even bother just make every single thing automatic*"}
+
+    ## Summary
+
+    ![EC2_use](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/afe0d1e1-4c7b-4d86-bc0c-22eb408ed691)
+
+    </br> </hr>
+
+    ![AWS Lambda](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/5440b828-7af1-4f12-9fe6-4399488c48fe)
+
+    </br> </hr>
+
+    ![Fargate and EC2](https://github.com/cnnarayanchavan/CC_AWS/assets/113028954/2f9ec25d-8029-46c9-ae6b-59f3882ff667)
+
+    * Credit : AWS-Skill-Builder
     
+
+
     
   
 
