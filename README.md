@@ -65,5 +65,7 @@ Elistic Cloud Compute
   
 </br> </hr> 
 
+### SQS SNS (Simple Queue Service and Simple Notification Service)
+
 
 
